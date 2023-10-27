@@ -21,6 +21,7 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [pnpm](https://pnpm.io/)
 - [i18next](https://www.i18next.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 ## Quickstart
 
