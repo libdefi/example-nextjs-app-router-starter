@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Next.js (App Router) Starter</h1>
+  <h1>Next.js 14 (App Router) Starter</h1>
 </div>
 
 <div align="center">
