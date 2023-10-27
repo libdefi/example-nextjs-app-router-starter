@@ -56,7 +56,7 @@
 cp .env.example .env
 ```
 
-3. Replace the `SALEOR_API_URL` environment variable with the address of your Saleor instance.
+3. Replace the `TEST_API_URL` environment variable with the address of your Saleor instance.
 
 4. Install the dependencies:
 
